@@ -6,3 +6,6 @@ Especializado en pruebas funcionales, integraciones y validación técnica en el
 mediante un dominio avanzado de bases de datos SQL Server y procesos ETL (Pentaho, SSIS).
 
 Amplia experiencia liderando estrategias de prueba dentro de marcos ágiles (Scrum),
+
+#Habilidades Técnicas
+
